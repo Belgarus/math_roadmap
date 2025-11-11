@@ -1,6 +1,6 @@
 # My Opinion
 
-The given Resources are brilliant and if you think their the thing your looking for - go one.  
+The given Resources are brilliant and if you think their the thing your looking for - go for it.  
 
 ## What I will do Instead
 I figured out that I want it a bit more specific.   
