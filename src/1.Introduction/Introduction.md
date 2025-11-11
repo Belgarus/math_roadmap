@@ -7,7 +7,8 @@ From calculating expenses, analysing data, and making strategic decisions, a sol
 
 ## Who am I?
 I’m currently a student and doing an apprenticeship as an IT specialist in system integration. I completed basic German high school education (Gymnasium) but without the advanced level (Abitur).
-I really struggled with high school maths, and even with a lot of learning, it was hard to keep up with the other students.
+I really struggled with high school maths, and even with a lot of learning, it was hard to keep up with the other students.  
+I leaned the wrong way.
 
 ## So why do you want to teach me how to learn math?
 I’m not here to teach math.  
