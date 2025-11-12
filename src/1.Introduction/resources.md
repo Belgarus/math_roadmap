@@ -20,20 +20,5 @@ MIT offers many of its mathematics courses online for free, including lecture no
 AI topics. However, the quality can be inconsistent, and the content is often very shallow. These resources are best suited for very specific needs—not recommended for general learning or beginners.  
 As an example: [ChatGPT](https://chatgpt.com/) Deep Research or [Roadmap.sh](https://roadmap.sh/ai/course). 
 
-## Supportive Resources
-I share some resources that helped me get started.
-
-### Youtube
-
-Learn how to understand and think about math: 
-
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/xSn_eMBxhyo" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
-
 
 

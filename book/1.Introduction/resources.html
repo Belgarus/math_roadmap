@@ -189,17 +189,6 @@
 <h3 id="5-ki-roadmap"><a class="header" href="#5-ki-roadmap">5. KI Roadmap</a></h3>
 <p>AI topics. However, the quality can be inconsistent, and the content is often very shallow. These resources are best suited for very specific needs—not recommended for general learning or beginners.<br />
 As an example: <a href="https://chatgpt.com/">ChatGPT</a> Deep Research or <a href="https://roadmap.sh/ai/course">Roadmap.sh</a>.</p>
-<h2 id="supportive-resources"><a class="header" href="#supportive-resources">Supportive Resources</a></h2>
-<p>I share some resources that helped me get started.</p>
-<h3 id="youtube"><a class="header" href="#youtube">Youtube</a></h3>
-<p>Learn how to understand and think about math:</p>
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/xSn_eMBxhyo" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
 
                     </main>
 
@@ -230,6 +219,22 @@ As an example: <a href="https://chatgpt.com/">ChatGPT</a> Deep Research or <a hr
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
