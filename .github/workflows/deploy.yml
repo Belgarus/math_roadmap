@@ -30,8 +30,8 @@ jobs:
               sudo mv mdbook /usr/local/bin/
               mdbook --version
 
-      - name: Install embedify preprocessor
-        run: cargo install mdbook-embedify
+      #- name: Install embedify preprocessor
+      #  run: cargo install mdbook-embedify
 
       - name: Build the book
         run: mdbook build
