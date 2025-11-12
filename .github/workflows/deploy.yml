@@ -19,9 +19,16 @@ jobs:
 
       - name: Install mdBook
         run: |
-          curl -Ls -o mdbook.tar.gz https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz
-          tar -xzf mdbook.tar.gz
-          sudo mv mdbook /usr/local/bin/
+              set -eux
+              latest=$(curl -s https://api.github.com/repos/rust-lang/mdBook/releases/latest \
+              | grep "browser_download_url" \
+              | grep "x86_64-unknown-linux-gnu.tar.gz" \
+              | cut -d '"' -f 4)
+              echo "Downloading mdBook from $latest"
+              curl -L -o mdbook.tar.gz "$latest"
+              tar -xzf mdbook.tar.gz
+              sudo mv mdbook /usr/local/bin/
+              mdbook --version
 
       - name: Install embedify preprocessor
         run: cargo install mdbook-embedify
