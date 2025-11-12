@@ -3,3 +3,6 @@ authors = ["Belgarus"]
 language = "en"
 src = "src"
 title = "math_roadmap"
+
+[preprocessor.embedify]
+footer.enable = false
