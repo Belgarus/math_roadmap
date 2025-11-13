@@ -5,3 +5,5 @@
     - [My Opinion](./1.Introduction/opinion.md)
 - [Preparation](./2.Preparation/prep.md)
     - [Learn to Learn](./2.Preparation/learn.md)
+- [Mental Calculation](./3.mental_calc/mental_calc.md)
+    - [Recomendation and overview](./3.mental_calc/recomendations.md)
