@@ -8,10 +8,10 @@ Of course you can.
 During the 18th century, it was observed that children with strong mental calculation skills often became successful scientists or mathematicians, though some faced personal challenges. Individuals who perform complex calculations quickly and accurately are considered prodigies or savants, and have been called “lightning calculators” or geniuses.
 
 ## Where to start?
-If you are german there is Christian Hesse. In his book *Mathe To Go* he not only gives you very usefull technices but also presentes the topic with a lot of humor, storys and even some cocktails recipes.  
+If you are german there is Christian Hesse. In his book *Mathe To Go* he not only gives you very usefull technices but also presentes the topic with a lot of humor, storys and even some cocktails recipes. He also has other interesting books like *Math up Your Life Schneller rechnen, besser leben*.
 
-<img src="https://images.thalia.media/00/-/ae0bcf5e3117474d8615332a16d02b50/mathe-to-go-taschenbuch-christian-hesse.jpeg" alt="Mathe To Go Book">
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=238x10000:format=jpg/path/se8a8b52f20d5b649/image/i958e89b9ec96a584/version/1494251622/image.jpg" alt="Mathe To Go Book">
 
-[Mathe to Go: Magische Tricks fürs schnelle Kofrechnen](https://www.thalia.de/shop/home/artikeldetails/A1045029475)
+[Mathe to Go: Magische Tricks fürs schnelle Kofrechnen](https://www.prof-christian-hesse.de/publikationen/)
 
-English books that havent read so far are: Painless Mental Math: Quick, Easy, and Useful Ways to Become a Human Calculator
+English books that havent read so far are: **
